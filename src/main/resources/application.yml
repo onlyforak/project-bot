@@ -1,0 +1,11 @@
+telegram:
+  username: onlyforak_bot
+  token: 2128664562:AAE_w9M0j_Yc0KMIt6WwBzhYjiLNC_jyYj4
+security:
+  code: 11111998
+users:
+  userIdForNotify: 442884052
+  targetUsername: lksfd
+text:
+  textForTargetUser: 1
+  nextTextForTargetUser: 2
