@@ -1,2 +1,2 @@
 # project-bot
-test him - t.me/onlyforak_bot
+test him - https://t.me/onlyforak_bot
